@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abishek-04
-- 👀 I’m interested in UI Designing, Developing and Mixed reality projects.
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on incrix.
+- 👀 I’m a UI Designer, Mixed reality Developer.
+<!-- - 🌱 I’m currently learning Reactjs -->
+- 💞️ I’m a part of incrix.
 - 📫 How to reach me on instagram "https://www.instagram.com/abishek._.26/"
 
 <!---
